@@ -16,3 +16,6 @@
 <choice>Click ‘Copy Form’ to copy an address that is already on record</choice>
 <choice>Manually enter the address information</choice></choices></step>
 <step><cmd>Click the green ‘Save’ button</cmd></step>
+</steps>
+</taskbody>
+</task>
