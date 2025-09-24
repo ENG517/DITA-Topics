@@ -4,7 +4,7 @@
 <title>Add an Address</title>
 <shortdesc>The university maintains several addresses for students in order to maintain accurate student records and information.</shortdesc>
 <taskbody>
-<prereq>Address changes are made through MyPack Portal. Users must have a functioning account</prereq>
+<prereq>Address changes are made through MyPack Portal. Users must log in to make changes.</prereq>
 <steps>
 <step><cmd>Navigate to the Student Homepage</cmd></step>
 <step><cmd>Select the ‘Personal Information’ tile</cmd></step>
