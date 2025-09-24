@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="enter-unique-id-here">
+  <title>View or Change your Personal Information</title>
+    <taskbody>
+        <prereq>You will need to arrive at the Personal Information tile in MyPack Portal in order to view or change your personal information.</prereq>
+        <context>To view or change your personal information in MyPack Portal:</context>
+        <step>
+          <cmd>Login into MyPack Portal</cmd>
+         </step>
+         <step>
+          <cmd>Head to the Student Homepage</cmd>
+         </step>
+         <step>
+          <cmd>
+            Click on the Personal Information Tile
+          </cmd>
+         </step>
+
+        <context> On the Personal Information tile, you will be able to view and update all of your personal information, including:</context>
+
+          <step>
+            <cmd>
+              Personal Details
+            </cmd>
+            <info>(Student ID number, Name and Preferred Name)</info>
+          </step>
+          <step>
+            <cmd>
+              Contact Details
+            </cmd>
+            <info>(Email addresses, phone numbers)</info>
+          </step>
+          <step>
+            <cmd>
+              Addresses              
+            </cmd>
+          </step>
+          <step>
+            <cmd>
+              Emergency Contacts              
+            </cmd>
+          </step>
+          <step>
+            <cmd>
+              Text/Email Notification Setup              
+            </cmd>
+          </step>
+          <step>
+            <cmd>
+              Ethnicity              
+            </cmd>
+          </step>
+          <step>
+            <cmd>
+              Privacy Restrictions              
+            </cmd>
+          </step>
+          <step>
+            <cmd>
+              Residency              
+            </cmd>
+          </step>
+          <step>
+            <cmd>
+              Veterans Information              
+            </cmd>
+            <info>
+              (Military Affiliation, Request Benefits Certification, Review Benefits Requests)
+            </info>
+          </step>
+          <step>
+            <cmd>
+              OIS Compliance Verification
+            </cmd>
+            <info>
+              (for International students only)
+            </info>
+          </step>
+           <step>
+            <cmd>
+              Provide Social Security Number
+            </cmd>
+          </step>
+           <step>
+            <cmd>
+              Parent and Guardian Access
+            </cmd>
+          </step>
+
+    </taskbody>
+</task>
