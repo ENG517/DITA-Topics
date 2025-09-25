@@ -8,13 +8,13 @@
 <step><cmd>Log in to Mypack portal and navigate to the Student Homepage</cmd></step>
 <step><cmd>Click the ‘Personal Information’ tile</cmd></step>
 <step><cmd>Select ‘Privacy Restrictions’ in the left-hand menu</cmd></step>
-<step><cmd>Find the correct directory field and:</cmd>
+<step><cmd>Find the desired directory field and:</cmd>
 <choices>
 	<choice>Select ‘Restrict’ to restrict access to the information in this field.</choice>
 	<choice>Select ‘Clear’ to release the restriction on this field.</choice>
 </choices></step>
 <step><cmd>Click the green ‘Save’ button to save your changes</cmd>
-<info><note>NOTE: Select a “full privacy” block to prevent us from sharing your information with anyone, including employers. A full privacy block also prevents your inclusion in graduation and Dean’s List publications.</note></info></step>
+<info><note>NOTE: Select a “Full Privacy” block to prevent us from sharing your information with anyone, including employers. A full privacy block also prevents your inclusion in graduation and Dean’s List publications.</note></info></step>
 </steps>
 </taskbody>
 </task>
