@@ -1,9 +1,10 @@
- <context> On the Personal Information tile, you will be able to view and update all of your personal information, including:</context>
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="enter-unique-id-here">
+<task id="notes_here">
   <title>This is a reference that I deleted from my 'view information' task file</title>
     <taskbody>
+       <context> On the Personal Information tile, you will be able to view and update all of your personal information, including:</context>
+       <steps>
           <step>
             <cmd>
               Personal Details
@@ -72,5 +73,6 @@
               Parent and Guardian Access
             </cmd>
           </step>
+          </steps>
       </taskbody>
       </task>

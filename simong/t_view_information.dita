@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="enter-unique-id-here">
+<task id="view_information">
   <title>View or Change your Personal Information</title>
     <taskbody>
         <prereq>You will need to arrive at the Personal Information tile in MyPack Portal in order to view or change your personal information.</prereq>
         <context>To view or change your personal information in MyPack Portal:</context>
+        <steps>
         <step>
           <cmd>Login into MyPack Portal</cmd>
          </step>
@@ -16,6 +17,7 @@
             Click on the Personal Information Tile
           </cmd>
          </step>
+         </steps>
           
     </taskbody>
 </task>
