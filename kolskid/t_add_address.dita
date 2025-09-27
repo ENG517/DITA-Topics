@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id ="Add_Address"> 
+<title>Add an Address</title>
+<shortdesc>The university maintains several addresses for students in order to maintain accurate student records and information.</shortdesc>
+<taskbody>
+<prereq>Address changes are made through MyPack Portal. Users must log in to make changes.</prereq>
+<steps>
+<step><cmd>Navigate to the Student Homepage</cmd></step>
+<step><cmd>Select the ‘Personal Information’ tile</cmd></step>
+<step><cmd>Select ‘Addresses’ in the left-hand menu</cmd></step>
+<step><cmd>Find the address you wish to add (e.g. ‘Diploma Address,’ ‘Campus Housing Address,’) and click the ‘Add Address’ button.</cmd>
+<info><note>Note: If there is already an address under the header, refer to the Update Address procedure to update the existing address.</note></info></step>
+<step><cmd>Enter the address one of two ways: </cmd>
+<choices>
+<choice>Click ‘Copy Form’ to copy an address that is already on record</choice>
+<choice>Manually enter the address information</choice></choices></step>
+<step><cmd>Click the green ‘Save’ button</cmd></step>
+</steps>
+</taskbody>
+</task>
