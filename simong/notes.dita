@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="notes_here">
+  <title>This is a reference that I deleted from my 'view information' task file</title>
+    <taskbody>
+       <context> On the Personal Information tile, you will be able to view and update all of your personal information, including:</context>
+       <steps>
+          <step>
+            <cmd>
+              Personal Details
+            </cmd>
+            <info>(Student ID number, Name and Preferred Name)</info>
+          </step>
+          <step>
+            <cmd>
+              Contact Details
+            </cmd>
+            <info>(Email addresses, phone numbers)</info>
+          </step>
+          <step>
+            <cmd>
+              Addresses              
+            </cmd>
+          </step>
+          <step>
+            <cmd>
+              Emergency Contacts              
+            </cmd>
+          </step>
+          <step>
+            <cmd>
+              Text/Email Notification Setup              
+            </cmd>
+          </step>
+          <step>
+            <cmd>
+              Ethnicity              
+            </cmd>
+          </step>
+          <step>
+            <cmd>
+              Privacy Restrictions              
+            </cmd>
+          </step>
+          <step>
+            <cmd>
+              Residency              
+            </cmd>
+          </step>
+          <step>
+            <cmd>
+              Veterans Information              
+            </cmd>
+            <info>
+              (Military Affiliation, Request Benefits Certification, Review Benefits Requests)
+            </info>
+          </step>
+          <step>
+            <cmd>
+              OIS Compliance Verification
+            </cmd>
+            <info>
+              (for International students only)
+            </info>
+          </step>
+           <step>
+            <cmd>
+              Provide Social Security Number
+            </cmd>
+          </step>
+           <step>
+            <cmd>
+              Parent and Guardian Access
+            </cmd>
+          </step>
+          </steps>
+      </taskbody>
+      </task>
