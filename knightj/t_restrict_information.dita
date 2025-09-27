@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="restrict-information">
+  <title>Restrict Access to your Personal Information</title>
+  <shortdesc>Restrict access to your personal information in MyPack Portal.</shortdesc>
+<taskbody>
+  <context>
+    <p>To restrict access to your personal information in MyPack Portal, follow these steps:</p>
+  </context>
+  <steps>
+    <step>
+      <cmd>Log in</cmd><info> to your MyPack Portal account</info>
+    </step>
+    <step>
+      <cmd>Select</cmd><info> your Student Homepage</info>
+    </step>
+    <step>
+      <cmd>Select</cmd><info> the Personal Information tile</info>
+    </step>
+    <step>
+      <cmd>Select</cmd><info> the Privacy Restrictions tab from the left-hand navigation menu</info>
+    </step>
+    <step>
+      <note>If you want to clear the restriction on a directory field, select the Clear checkbox.</note>
+      <cmd>Select</cmd><info> the Restrict checkbox next to the information you want to restrict</info>
+    </step>
+    <step>
+      <cmd>Select</cmd><info> Save</info>
+    </step>
+  </steps>
+  <result>
+  <p>Your personal information should now be restricted in your account according to your choices.</p>
+  </result>
+</taskbody>
+</task>
