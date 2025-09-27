@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="view_information">
+  <title>View or Change Personal Information</title>
+  <taskbody>
+      <prereq>To view or change your personal information, log in to your MyPack Portal</prereq>
+      <context>From your MyPack Portal:</context>
+          <steps>
+              <step>
+                  <cmd>Select your Student Homepage</cmd>
+              </step>
+              <step>
+                  <cmd>Select the 'Personal Information' tile</cmd>
+                  <info>On the Personal Information tile, you will be able to view and update all of your personal information</info>
+              </step>
+          </steps>
+  </taskbody>
+</task>
