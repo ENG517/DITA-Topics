@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="enter-unique-id-here">
-  <title></title>
+<task id="restrict_information">
+  <title>Restrict Personal Information</title>
+  <taskbody>
+      <prereq>To restrict any of your private information, log into your MyPack Portal</prereq>
+      <context>Under the Family Educational Rights and Privacy Act (FERPA), you have the right to restrict all or part of your directory information, which includes your preferred email, your enrollment status (full-time/part-time), major field of study, and more.</context>
+          <steps>
+              <step>
+                  <cmd>Select your Student Homepage</cmd>
+              </step>
+              <step>
+                  <cmd>Select the 'Personal Information' tile</cmd>
+              </step>
+              <step>
+                  <cmd>Select 'Privacy Restrictions'</cmd>
+                  <info>Look to the left hand navigation menu to find 'Privacy Restrictions'</info>
+              </step>
+              <step>
+                  <cmd></cmd>
+              </step>
+              <step>
+                  <cmd>Select the green 'Save' button to save your changes</cmd>
+              </step>
+          </steps>
+  </taskbody>
 </task>
