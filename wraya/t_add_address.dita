@@ -3,7 +3,7 @@
 <task id="add_address">
   <title>Add an Address</title>
   <taskbody>
-      <prereq>To ADD an adress, log into your MyPack Portal</prereq>
+      <prereq>To ADD an address, log into your MyPack Portal</prereq>
       <context>From your MyPack Portal:</context>
           <steps>
               <step>
