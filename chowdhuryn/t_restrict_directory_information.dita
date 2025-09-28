@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_restrict_directory_information">
+  <title>
+    Restrict Directory Information
+  </title>
+  <shortdesc>
+    Under the Family Educational Rights and Privacy Act (FERPA), you have the right to restrict all or part of your directory information, which includes your preferred email, your enrollment status (full-time/part-time), major field of study, and more. 
+  </shortdesc>
+  <taskbody>
+    <prereq>
+      You must have to access to MyPack Portal with your student login credentials.
+    </prereq>
+    <steps>
+      <step>
+        <cmd>
+          Select your Student Homepage
+        </cmd>
+      </step>
+      <step>
+        <cmd>
+          Select the 'Personal Information' tile
+        </cmd>
+      </step>
+      <step>
+        <cmd>
+          Select 'Privacy Restrictions'
+        </cmd>
+        <info>
+          You will find it from the left-hand nevigation menu
+        </info>
+      </step>
+      <step>
+        <cmd>
+          Choose your restriction option for each directory field
+        </cmd>
+        <choices>
+          <choice>
+            Select 'Restrict' under the directory field you would like to restrict access to
+          </choice>
+          <choice>
+            Select 'Clear' if you wish to release the restriction for that field
+          </choice>
+        </choices>
+      </step>
+      <step importance="optional">
+        <cmd>
+          Grant exception for certain publications if using Full Privacy Block
+        </cmd>
+        <info>
+          Click the Full Privacy Block field, check the 'Restricted' box, and select the Exception you would like to grant
+        </info>
+      </step>
+      <step>
+        <cmd>
+          Be sure to click the green 'Save' button to save your changes
+        </cmd>
+      </step>
+    </steps>
+    <postreq>
+      <note>
+        Select a “full privacy” block to prevent us from sharing your information with anyone, including employers. A full privacy block also prevents your inclusion in graduation and Dean's List publications.
+      </note>
+    </postreq>
+  </taskbody>
+</task>
