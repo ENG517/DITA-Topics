@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_add_address">
+  <title>
+    Add an address
+  </title>
+  <shortdesc>
+    Students are asked to regularly verify and update address information on record with the university through the MyPack Portal student information system.
+  </shortdesc>
+  <taskbody>
+    <prereq>
+      You must have to access to MyPack Portal with your student login credentials.
+    </prereq>
+    <steps>
+      <step>
+        <cmd>
+          Log into your MyPack Portal.
+        </cmd>
+      </step>
+      <step>
+        <cmd>
+          Select your Student Homepage. 
+        </cmd>
+      </step>
+      <step>
+        <cmd>
+          Select the 'Personal Information' tile
+        </cmd>
+      </step>
+      <step>
+        <cmd>
+          select 'Addresses'
+        </cmd>
+        <info>
+          Select the link corresponding to the type of information you wish to view from the left-hand navigation menu.
+        </info>
+      </step>
+      <step>
+        <cmd>
+          Under the appropriate header (e.g. 'Diploma Address'), select the 'Add Diploma Address' button if no address is defined.
+        </cmd>
+        <info>
+          The button name will vary depending on the type of address you are adding.
+        </info>
+      </step>
+      <step>
+        <cmd>
+          Choose how to enter your address information.
+        </cmd>
+        <choices>
+          <choice>
+            Select the 'Copy From' button to copy the address from address that is already on record.
+          </choice>
+          <choice>
+            Manually enter an address in the given fields.
+          </choice>
+        </choices>
+      </step>
+      <step>
+        <cmd>
+          Select the green 'Save' button.
+        </cmd>
+      </step>
+
+    </steps>
+  </taskbody>
+</task>
