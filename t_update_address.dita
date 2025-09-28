@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="enter-unique-id-here">
-  <title></title>
+<task id="Update_Address">
+  <title>Update Address</title>
 </task>
+
+</task>
+<context> This task help NC State students update their email address in MyPack portal. </context>
+  <prereq> MyPack portal account. </prereq>
+<taskbody>
+  <steps>
+    <step>
+     <cmd> Select your Student Homepage </cmd>
+    </step>
+    <step>
+     <cmd> Select the ‘Personal Information’ tile </cmd>
+    </step>
+    <step>
+     <cmd> From the left-hand navigation menu, select ‘Addresses’ </cmd>
+    </step>
+    <step>
+     <cmd> Under the appropriate header,click on the address box under the appropriate header </cmd>
+     <example> e.g. ‘Home Address,’ </example>
+    </step> 
+     <cmd> Update the address fields as necessary </cmd>
+    </step>
+      <cmd> Select the green ‘Save’ button </cmd>
+   <steps>
+</taskbody>

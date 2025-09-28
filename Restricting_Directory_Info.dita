@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="enter-unique-id-here">
-  <title></title>
+<task id="Restricting Directory Information">
+  <title>Restricting Personal Information</title>
 </task>
+<context>This task helps NC State Students restrict personal information in the MyPack portal.</context>
+  <prereq> MyPack account. </prereq>
+<taskbody>
+  <steps>
+  <step>
+    <step>
+     <cmd> Select your Student Homepage </cmd>
+    </step>
+    <step>
+     <cmd> Select the ‘Personal Information’ tile </cmd>
+    </step>
+    <step>
+     <cmd> From the left-hand navigation menu, select ‘Privacy Restrictions’ </cmd>
+    </step>
+    <step>
+     <choices>
+      <choice> Select ‘Restrict’ under the directory field you would like to restrict access to <choice>
+        <substep> 
+          <cmd> Grant exceptions for certain publications by clicking the Full Privacy Block field, checking the ‘Restricted’ box, and selecting the Exceptions you would like to grant</cmd>
+        </substep>
+      </choice > OR select ‘Clear’ if you wish to release the restriction for that field </choice>
+     </choices>
+    </step> 
+     <cmd> Update the address fields as necessary </cmd>
+    </step>
+      <cmd>Select the green 'Save’ button</cmd>
+   <steps>
+     </steps>
+      <cmd> Click the green ‘Save’ button to save your changes <cmd>
+      </step>
+  <steps>
+</taskbody>
+<task>
