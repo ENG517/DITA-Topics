@@ -8,27 +8,27 @@
     </prereq>
     <steps>
       <step>
-        <cmd>Select the <b>Personal Information</b> tile.</cmd>
-        <info>Located in the <b>Student Homepage</b></info>
+        <cmd>Select the <uicontrol>Personal Information</uicontrol> tile.</cmd>
+        <info>Located in the Student Homepage</info>
       </step>
       <step>
-        <cmd>Select <b>Addresses</b></cmd>
+        <cmd>Select <uicontrol>Addresses</uicontrol></cmd>
         <info>Located in the left-hand navigation menu</info>
       </step>
       <step>
-        <cmd>Select <b>Add Diploma Address</b></cmd>
-        <info>If no address is defined under the appropriate header, e.g. <b>Diploma Address</b></info>
+        <cmd>Select <uicontrol>Add Diploma Address</uicontrol></cmd>
+        <info>If no address is defined under the appropriate header, e.g. Diploma Address</info>
       </step>
       <step>
         <cmd>Add an address using one of the following methods:</cmd>
         <choices>
-          <choice>Select the <b>Copy From</b> button to copy the address from address that is
-            already on record</choice>
+          <choice>Select the <uicontrol>Copy From</uicontrol> button to copy the address from
+            address that is already on record</choice>
           <choice>Manually enter an address</choice>
         </choices>
       </step>
       <step>
-        <cmd>Select the green <b>Save</b> button</cmd>
+        <cmd>Select the green <uicontrol>Save</uicontrol> button</cmd>
       </step>
     </steps>
   </taskbody>

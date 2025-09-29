@@ -6,11 +6,11 @@
   <taskbody>
     <steps>
       <step>
-        <cmd>Log in to <b>MyPackPortal.</b></cmd>
+        <cmd>Log in to MyPackPortal.</cmd>
       </step>
       <step>
-        <cmd>Select the <b>Personal Information</b> tile.</cmd>
-        <info>Located in the <b>Student Homepage</b></info>
+        <cmd>Select the <uicontrol>Personal Information</uicontrol> tile.</cmd>
+        <info>Located in the Student Homepage</info>
       </step>
     </steps>
   </taskbody>

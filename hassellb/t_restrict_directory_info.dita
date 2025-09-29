@@ -11,33 +11,32 @@
     </prereq>
     <steps>
       <step>
-        <cmd>Select the <b>Personal Information</b> tile</cmd>
-        <info>Located in the <b>Student Homepage</b></info>
+        <cmd>Select the <uicontrol>Personal Information</uicontrol> tile</cmd>
+        <info>Located in the Student Homepage</info>
       </step>
       <step>
-        <cmd>Select <b>Privacy Restrictions</b></cmd>
+        <cmd>Select <uicontrol>Privacy Restrictions</uicontrol></cmd>
         <info>Located in the left-hand navigatio menu</info>
       </step>
       <step>
         <cmd>Select one of the following:</cmd>
         <info>In the desired directory field</info>
         <choices>
-          <choice><b>Restrict</b> to restrict access</choice>
-          <choice><b>Clear</b> to release the restriction</choice>
+          <choice><uicontrol>Restrict</uicontrol> to restrict access</choice>
+          <choice><uicontrol>Clear</uicontrol> to release the restriction</choice>
         </choices>
       </step>
       <step>
         <note>Select a “full privacy” block to prevent us from sharing your information with anyone,
           including employers. A full privacy block also prevents your inclusion in graduation and
           Dean’s List publications.</note>
-        <cmd>If you choose a <b>Full Privacy Block</b>, grant any exceptions for certain
-          publications:</cmd>
+        <cmd>If you choose a Full Privacy Block, grant any exceptions for certain publications:</cmd>
         <substeps>
           <substep>
-            <cmd>Click the <b>Full Privacy Block</b> field</cmd>
+            <cmd>Click the <uicontrol>Full Privacy Block</uicontrol> field</cmd>
           </substep>
           <substep>
-            <cmd>Check the <b>Restricted</b> box</cmd>
+            <cmd>Check the <uicontrol>Restricted</uicontrol> box</cmd>
           </substep>
           <substep>
             <cmd>Select the Exceptions you would like to grant.</cmd>
