@@ -43,7 +43,7 @@
           </choice>
         </choices>
       </step>
-      <step importance="optional">
+      <step>
         <cmd>
           Grant exception for certain publications if using Full Privacy Block
         </cmd>
