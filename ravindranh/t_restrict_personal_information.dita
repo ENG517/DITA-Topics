@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="restrict-personal-information">
+  <title>RestrictPersonal Information</title>
+  <taskbody>
+    <prereq>
+      <p>Ensure that you have an active account in MyPack portal and log into it before proceeding with the task</p>
+      </prereq>
+    <context>
+      <p>Under the Family Educational Rights and Privacy Act (FERPA), students have the right to 
+        restrict access to their personal information which includes email addresses, enrollment statuses, and field of study </p>
+      </context>
+    <steps>
+      <step>
+        <cmd>Select your <uicontrol>Student Homepage</uicontrol></cmd>
+        </step>
+      <step>
+        <cmd>Select the <uicontrol>Personal Information</uicontrol> tile</cmd>
+        </step>
+      <step>
+        <cmd>Select <uicontrol>Privacy Restrictions</uicontrol> from the left-hand menu</cmd>
+      </step>
+      <step>        
+        <cmd>Select <uicontrol>Restrict</uicontrol> under the directory field that must be restricted or select <uicontrol>Clear</uicontrol>to release the restriction from that field</cmd>
+      </step>
+      <step>
+        <cmd>Select the <uicontrol>Save</uicontrol> button</cmd>
+        </step>
+    </steps>
+     <postreq><p>Select <uicontrol>Full Privacy Block</uicontrol>to prevent us from 
+     sharing your personal information with anyone, including employers, and inclusion from graduation 
+     and Dean's list publications</p>
+     <p>To grant exceptions for certain publications, click the <uicontrol>Full Privacy Block</uicontrol>field, 
+     check <uicontrol>Restrcited</uicontrol> and select the exceptions to be granted in <uicontrol>Exceptions</uicontrol></p></postreq>
+  </taskbody>
+</task>
