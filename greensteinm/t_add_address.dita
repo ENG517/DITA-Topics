@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="add-address">
-  <title>Add Address on MyPack</title>
+<task id="add--diploma-address">
+  <title>Add Diploma Address on MyPack</title>
+  <taskbody>
+    <prereq>To ADD an address, log into your MyPack Portal:</prereq>
+    <steps>
+      <step>
+        <cmd>Select your Student Homepage</cmd>
+      </step>
+      <step>
+        <cmd>Select the 'Personal Information' tile</cmd>
+      </step>
+      <step>
+        <cmd>From the left-hand navigation menu, select 'Addresses'</cmd>
+      </step>
+    </steps>
+  </taskbody>
 </task>
