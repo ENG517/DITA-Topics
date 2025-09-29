@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="enable-privacy-lock">
+<title>Enable Privacy Lock on Personal Information</title>
+<shortdesc>How to enable privacy lick for your personal information in MyPack</shortdesc>
+</>taskbody>
+<steps>enabling privacy mode</steps>
+<step>select your student homepage</step>
+<step>select the 'personal information' tile
+<step>From the left-hand-navigation menu, select 'Privacy rejections</step>
+<step>Select 'restrict' under the directory field if you would like to restrict acces</step>
+<substep>Select 'clear' if you wish to release the restriction for that field</substep>
+<body>If you choose a Full Privacy Block, you can grant exceptions for certain publications by
+  clicking the Full Privacy Block field, checking the ‘Restricted’ box, and selecting the Exceptions
+  you would like to grant</body>
+<note>Select a “full privacy” block to prevent us from sharing your information with anyone,
+  including employers. A full privacy block also prevents your inclusion in graduation and Dean’s
+  List publications</note>
