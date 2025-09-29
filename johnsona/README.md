@@ -8,6 +8,8 @@ I went through both webpages, assessed the content, and tried to draw imaginary 
 
 ## Explain your decisions to translate the tasks from the website, noting any changes to the original. What was your reasoning?
 
+Most of my decisions were pretty straightforward and aligned well with the website's choices (for example, choosing to have a task topic for explaining different types of addresses to the user), but one significant change I made from the original was separating the "add or update an address" task topic into two separate task topics. I chose to do this because each task topic is decently long (6 steps apiece, 12 steps altogether) already and while the two things are related, they're not the same, so they each warrant a dedicated task topic. 
+
 
 ## Explain your difficulties. What parts of the process created some pain points for you? Why?
 
