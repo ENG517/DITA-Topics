@@ -2,23 +2,25 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="updating-addess">
   <title>Updating-address</title>
-  <shortdesc></shortdesc>
-  <steps>
-    <step>
-      <cmd>Select your Student Homepage</cmd>
-    </step>
-    <step>
-      <cmd>From the left-hand navigation menu, select 'Addresses'</cmd>
-    </step>
-    <step>
-      <cmd>Under the appropriate header, e.g. ‘Home Address,’ click on the address box under the
-        appropriate header</cmd>
-    </step>
-    <step>
-      <cmd>Update the address fields as neccesary</cmd>
-    </step>
-    <Step>
-      <cmd>Select the green 'save' button</cmd>
-    </Step>
-  </steps>
+  <shortdesc>this is how to update your address in mypack</shortdesc>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>Select your Student Homepage</cmd>
+      </step>
+      <step>
+        <cmd>From the left-hand navigation menu, select 'Addresses'</cmd>
+      </step>
+      <step>
+        <cmd>Under the appropriate header, e.g. ‘Home Address,’ click on the address box under the
+          appropriate header</cmd>
+      </step>
+      <step>
+        <cmd>Update the address fields as neccesary</cmd>
+      </step>
+      <step>
+        <cmd>Select the green 'save' button</cmd>
+      </step>
+    </steps>
+  </taskbody>
 </task>

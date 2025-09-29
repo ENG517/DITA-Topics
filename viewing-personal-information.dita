@@ -2,23 +2,17 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="viewing-personal-information">
   <title>Viewing Personal Information in MyPack</title>
-  <steps>
-    <step>
-      <cmd>Go to MyPack Portal</cmd>
-    </step>
-    <step>
-      <cmd>Click Student Homepage</cmd>
-    </step>
-    <step>
-      <cmd>Click the 'personal information' tile</cmd>
-    </step>
-    <choices>Personal Details (Student ID number, Name and Preferred Name) <choices>Contact Details
-      (Email addresses, phone numbers)</choices> Addresses Emergency Contacts Text/Email
-      notification setup Ethnicity Privacy Restrictions Residency Veterans Information (Military
-      Affiliation, Request Benefits Certification, Review Benefits Requests) OIS Compliance
-      Verification (for International students only) <choices>Provide Social Security Number</choices>
-    <choices>Parent
-      & Guardian Access</choices>
-    <choices></choices></choices>
-  </steps>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>Go to MyPack Portal</cmd>
+      </step>
+      <step>
+        <cmd>Click Student Homepage</cmd>
+      </step>
+      <step>
+        <cmd>Click the 'personal information' tile</cmd>
+      </step>
+    </steps>
+  </taskbody>
 </task>
