@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="add-student-address">
+  <title>Add an Address in Student Record</title>
+  <taskbody>
+    <steps>
+      <step><cmd>Select your <uicontrol>Student Homepage</uicontrol></cmd></step>
+      <step><cmd>Select the <uicontrol>Personal Information</uicontrol> tile</cmd></step>
+      <step><cmd>Select <uicontrol>Addresses</uicontrol> from the left-hand navigation menu</cmd></step>
+      <step><cmd>Select the <uicontrol>Add Diploma Address</uicontrol> button under the appropriate header</cmd></step>
+      <step><cmd>Select the <uicontrol>Copy From</uicontrol> button to copy an already existing address or manually enter the new address</cmd></step>
+      <step><cmd>Select the <uicontrol>Save</uicontrol> button</cmd></step>
+    </steps>
+  </taskbody>
+</task>
