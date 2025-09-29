@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="add--diploma-address">
-  <title>Add Diploma Address on MyPack</title>
+<task id="add-address">
+  <title>Add Address on MyPack</title>
   <taskbody>
     <prereq>To ADD an address, log into your MyPack Portal:</prereq>
     <steps>
@@ -13,6 +13,15 @@
       </step>
       <step>
         <cmd>From the left-hand navigation menu, select 'Addresses'</cmd>
+      </step>
+      <step>
+        <cmd>Under the appropriate header, e.g. 'Diploma Address,' if no address is defined, select the 'Add Diploma Address' button</cmd>
+      </step>
+      <step>
+        <cmd>You can either select the 'Copy From' button to copy the address from address that is already on record, or manually enter an address in the given fields</cmd>
+      </step>
+      <step>
+        <cmd>Select the green 'Save' button</cmd>
       </step>
     </steps>
   </taskbody>
