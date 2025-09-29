@@ -21,6 +21,7 @@
       </step>
       <step>
         <cmd>Be sure to click the green ‘Save’ button to save your changes</cmd>
+        <!-- To match personal information and privacy pages, consider changing wording of this step to "Select the green ‘Save’ button"-->
       </step>
     </steps>
   </taskbody>
