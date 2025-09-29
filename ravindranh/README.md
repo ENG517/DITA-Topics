@@ -19,7 +19,7 @@ I did not find major impediments in translating the tasks into DITA elements, as
 
 ## How did you overcome those pain points?
 
-I overcame the pain points by keeping the steps concise, structuring the DITA workflow to clearly separate the primary tasks from pre-conditions, and background info. I also leveraged DITA elements such as <ul>, <li>, <stepxmp>, and <postreq> tags to ensure no information was left out. With the help of the <uicontrol> tag, I also made sure that I wasnt compromising on the visual quality of the webpage while transalting the content into DITA structure. 
+I overcame the pain points by keeping the steps concise, structuring the DITA workflow to clearly separate the primary tasks from pre-conditions, and background info. I also leveraged DITA elements such as list, step example, and post req tags to ensure no information was left out. With the help of the UI control tag, I also made sure that I wasnt compromising on the visual quality of the webpage while transalting the content into DITA structure. 
 
 
 
