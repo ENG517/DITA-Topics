@@ -13,6 +13,9 @@ Most of my decisions were pretty straightforward and aligned well with the websi
 
 ## Explain your difficulties. What parts of the process created some pain points for you? Why?
 
+I had some difficulty deciding whether to include the first part of each webpage as a task topic, i.e. the address definitions and the list of different types of personal details shown on MyPack. They were more difficult for me to make a decision on because they're not ordered lists and don't have imperative verbs or steps included, making it slightly less straightforward than the other task topics I made. 
 
 ## How did you overcome those pain points?
+
+I overcame this difficulty by creating task topics for those sections and naming them imperatively. I felt like that info was essential to include for the sake of the user's understanding, and I think these specific task topics from each webpage can be rephrased or repositioned to be more apparent as task topics. 
 
