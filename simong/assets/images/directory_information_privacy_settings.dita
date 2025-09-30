@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="enter-unique-id-here">
-  <title></title>
+<concept id="directory-information-privacy-settings">
+  <title>Personal Information and Privacy</title>
+  <shortdesc>You can use your NC State Unity account to access your personal, academic and financial information, and it's very important that you keep this information safe. Use NC State's resources and information to protect your privacy.</shortdesc>
+  <conbody>
+    <!-- Directory Information Privacy Settings -->
+    <section>
+      <title>Directory Information Privacy Settings</title>
+      <p>Under the Family Educational Rights and Privacy Act (FERPA), you have the right to restrict all or part of your directory information, which includes your preferred email, your enrollment status (full-time/part-time), major field of study, and more. </p>
+    </section>
+  </conbody>
 </concept>
