@@ -4,8 +4,6 @@
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
 # CLass Specific
-README-Concept-Topics.md
-c_scary_skeleton.dita
 settings.json
 
 ## MAC OS ##
