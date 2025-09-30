@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="viewing-personal-information">
+  <title>Viewing Personal Information in MyPack</title>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>Go to MyPack Portal</cmd>
+      </step>
+      <step>
+        <cmd>Click Student Homepage</cmd>
+      </step>
+      <step>
+        <cmd>Click the 'personal information' tile</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>
