@@ -6,7 +6,14 @@
   <conbody>
     <!-- View your Personal Information -->
     <section>
-      <title>Your Personal Information</title>
+      <title>View Your Personal Information</title>
+      <p>To view or change your personal information in MyPack Portal:
+        <menucascade>
+          <uicontrol>MyPack Portal</uicontrol>
+          <uicontrol>Student Homepage</uicontrol>
+          <uicontrol>Personal Information tile</uicontrol>
+        </menucascade>
+      </p>
       <p>On the Personal Information tile, you will be able to view and update all of your personal information, including:</p>
       <ul>
         <li>Personal Details (Student ID number, Name and Preferred Name)</li>
