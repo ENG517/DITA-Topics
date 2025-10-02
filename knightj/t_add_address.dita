@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="add-address">
+  <title>Add an Address</title>
+  <shortdesc>Add an address to MyPack Portal.</shortdesc>
+<taskbody>
+  <context>
+    <p>To add an address to MyPack Portal, follow these steps:</p>
+  </context>
+  <steps>
+    <step>
+      <cmd>Log in</cmd><info> to your MyPack Portal account.</info>
+    </step>
+    <step>
+      <cmd>Select</cmd><info> your Student Homepage</info>
+    </step>
+    <step>
+      <cmd>Select</cmd><info> the Personal Information tile</info>
+    </step>
+    <step>
+      <cmd>Select</cmd><info> Addresses from the left-hand navigation menu</info>
+    </step>
+    <step>
+      <cmd>Select</cmd><info> Add Address under the appropriate header</info>
+    </step>
+    <step>
+      <cmd>Enter</cmd><info> your address information</info>
+    </step>
+    <step>
+      <cmd>Select</cmd><info> Save</info>
+    </step>
+  </steps>
+  <result>
+    <p>Your new address should now be added to your account.</p>
+  </result>
+</taskbody>
+</task>
