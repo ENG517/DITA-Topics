@@ -4,7 +4,7 @@
   <title>Personal Information</title>
   <shortdesc>You can use your NC State Unity account to access your personal, academic and financial information, and it's very important that you keep this information safe.</shortdesc>
   <conbody>
-    <p>The following personal information can be viewed and edited through MyPack Portal:</p>
+    <p>The following personal information can be viewed and edited through MyPack Portal:
     <ul>
       <li>Personal Details (Student ID number, Name and Preferred Name)</li>
       <li>Contact Details (Email addresses, phone numbers)</li>
@@ -18,6 +18,6 @@
       <li>OIS Compliance Verification (for International students only)</li>
       <li>Provide Social Security Number</li>
       <li>Parent and Guardian Access</li>
-    </ul>
+    </ul></p>
   </conbody>
 </concept>

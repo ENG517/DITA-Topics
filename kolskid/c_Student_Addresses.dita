@@ -23,7 +23,7 @@
     </section>
     <section>
       <title>Diploma Address</title>
-      <p>The address to which a student's diploma should be mailed once the student graduates. This address is not required. If a Diploma Address is not provided, the diploma will be mailed to the student’s Home Address on record.</p>
+      <p>The address to which a student's diploma should be mailed once the student graduates. This address is not required. If a Diploma Address is not provided, the diploma will be mailed to the student's Home Address on record.</p>
     </section>
     <section>
       <title>SEVIS Local Address*</title>
@@ -33,6 +33,5 @@
       <title>SEVIS Foreign Address*</title>
       <p>The student's home foreign address. This is automatically populated for all international students based on the information provided in during the admission process. Please visit the Office of International Services for information on what to do if you need to update this address.</p>
     </section>
-    <note>*Required for international students</note>
   </conbody>
 </concept>
