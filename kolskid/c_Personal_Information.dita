@@ -1,9 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="Student_Personal_Information">
-  <title>Student Personal Information</title>
+  <title>Personal Information</title>
   <shortdesc>You can use your NC State Unity account to access your personal, academic and financial information, and it's very important that you keep this information safe.</shortdesc>
   <conbody>
-
+    <p>The following personal information can be viewed and edited through MyPack Portal:</p>
+    <ul>
+      <li>Personal Details (Student ID number, Name and Preferred Name)</li>
+      <li>Contact Details (Email addresses, phone numbers)</li>
+      <li>Addresses</li>
+      <li>Emergency Contacts</li>
+      <li>Text/Email Notification Setup</li>
+      <li>Ethnicity</li>
+      <li>Privacy Restrictions</li>
+      <li>Residency</li>
+      <li>Veterans Information (Military Affiliation, Request Benefits Certification, Review Benefits Requests)</li>
+      <li>OIS Compliance Verification (for International students only)</li>
+      <li>Provide Social Security Number</li>
+      <li>Parent and Guardian Access</li>
+    </ul>
   </conbody>
 </concept>
