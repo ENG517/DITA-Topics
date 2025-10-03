@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="personal_information">
+  <title>Personal Information in MyPack Portal</title>
+  <shortdesc>You can view and edit personal information on the Personal Information tile in MyPack Portal.</shortdesc>
+  <conbody>
+    <p>
+      The MyPack Portal allows you to view and update certain personal information. This information includes:
+    </p>
+    <ul>
+      <li>Personal details (student ID number, name, and preferred name)</li>
+      <li>Contact details (email addresses, phone numbers)</li>
+      <li>Addresses</li>
+      <li>Emergency contacts</li>
+      <li>Text/email notification setup</li>
+      <li>Ethnicity</li>
+      <li>Privacy restrictions</li>
+      <li>Residency</li>
+      <li>Privacy restrictions</li>
+      <li>Veterans information</li>
+      <li>OIS compliance verification</li>
+      <li>Social Security number</li>
+      <li>Parent and guardian access</li>
+    </ul>
+    <p>
+      Providing accurate personal information helps ensure that you receive important notifications and updates regarding your account.
+    </p>
+  </conbody>
+</concept>
