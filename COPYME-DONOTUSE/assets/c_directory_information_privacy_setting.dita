@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="directory_information_privacy_setting">
+  <title>Personal Information and Privacy</title>
+  <shortdesc>You can use your NC State Unity account to access your personal, academic and financial information, and it's very important that you keep this information safe. Use the resources and information below to protect your privacy. </shortdesc>
+  <conbody>
+    <section>
+      <title>Directory Information Privacy Settings</title>
+      <p>Under the Family Educational Rights and Privacy Act (FERPA), you have the right to restrict all or part of your directory information, which includes your preferred email, your enrollment status (full-time/part-time), major field of study, and more. </p>
+      <p>If you wish to restrict this information, you can do so in your MyPack Portal:
+        <menucascade>
+        <uicontrol>MyPack Portal</uicontrol>
+        <uicontrol>Student Homepage</uicontrol>
+        <uicontrol>Personal Information tile</uicontrol>
+        <uicontrol>Privacy Restrictions</uicontrol>
+      </menucascade>
+      </p>
+    </section>
+  </conbody>
+</concept>
