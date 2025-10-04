@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="restrict-directory-info">
+  <title>Restrict Directory Information</title>
+  <shortdesc>You have the right to restrict all or part of your directory information, which
+    includes your preferred email, your enrollment status (full-time/part-time), major field of
+    study, and more.</shortdesc>
+  <taskbody>
+    <prereq>
+      <p>You must be logged in to MyPack Portal.</p>
+    </prereq>
+    <steps>
+      <step>
+        <cmd>Select the <uicontrol>Personal Information</uicontrol> tile</cmd>
+        <info>Located in the Student Homepage</info>
+      </step>
+      <step>
+        <cmd>Select <uicontrol>Privacy Restrictions</uicontrol></cmd>
+        <info>Located in the left-hand navigatio menu</info>
+      </step>
+      <step>
+        <cmd>Select one of the following:</cmd>
+        <info>In the desired directory field</info>
+        <choices>
+          <choice><uicontrol>Restrict</uicontrol> to restrict access</choice>
+          <choice><uicontrol>Clear</uicontrol> to release the restriction</choice>
+        </choices>
+      </step>
+      <step>
+        <note>Select a “full privacy” block to prevent us from sharing your information with anyone,
+          including employers. A full privacy block also prevents your inclusion in graduation and
+          Dean’s List publications.</note>
+        <cmd>If you choose a Full Privacy Block, grant any exceptions for certain publications:</cmd>
+        <substeps>
+          <substep>
+            <cmd>Click the <uicontrol>Full Privacy Block</uicontrol> field</cmd>
+          </substep>
+          <substep>
+            <cmd>Check the <uicontrol>Restricted</uicontrol> box</cmd>
+          </substep>
+          <substep>
+            <cmd>Select the Exceptions you would like to grant.</cmd>
+          </substep>
+        </substeps>
+      </step>
+    </steps>
+  </taskbody>
+</task>
