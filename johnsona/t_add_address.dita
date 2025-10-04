@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="enter-unique-id-here">
-  <title></title>
+<task id="add_address_task">
+  <title>Add an Address</title>
+  <taskbody>
+    <prereq>To ADD an address, log into your MyPack Portal.</prereq>
+      <steps>
+        <step>
+          <cmd>Select your Student Homepage</cmd>
+        </step>
+        <step>
+          <cmd>Select the 'Personal Information' tile</cmd>
+        </step>
+        <step>
+          <cmd>Select 'Addresses'</cmd>
+          <info>'Addresses' is located in the left-hand navigation menu </info>
+        </step>
+        <step>
+          <cmd>Check the information listed under the relevant header. If no address is defined, select the 'Add __ Address' button.</cmd>
+          <info>For example, if you need to add an address for your diploma, check under 'Diploma Address' and click 'Add Diploma Address'</info>
+        </step>
+        <step>
+          <cmd>Select the 'Copy From' button to copy the address from addresses already on record, or manually enter an address in the given fields.</cmd>
+        </step>
+        <step>
+          <cmd>Select the green 'Save' button</cmd>
+        </step>
+      </steps>
+  </taskbody>
 </task>
