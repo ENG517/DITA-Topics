@@ -4,6 +4,7 @@
   <title>Add an Address</title>
   <taskbody>
     <prereq>To ADD an address, log into your MyPack Portal.</prereq>
+    <context>From MyPack Portal:</context>
       <steps>
         <step>
           <cmd>Select your Student Homepage</cmd>

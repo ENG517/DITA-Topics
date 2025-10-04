@@ -3,8 +3,8 @@
 <task id="understand_personal_info_task">
   <title>View Your Personal Information</title>
   <taskbody>
-    <prereq>To view or change your personal information in MyPack Portal:</prereq>
-    <context>On the Personal Information tile, you will be able to view and update all of your personal information</context>
+    <prereq>You can view or change your personal information in MyPack Portal</prereq>
+    <context>From MyPack Portal:</context>
       <steps>
         <step>
           <cmd>Navigate to MyPack Portal</cmd>
