@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="view_personal_info_task">
+  <title>View Your Personal Information</title>
+  <taskbody>
+    <prereq>You can view or change your personal information in MyPack Portal</prereq>
+    <context>From MyPack Portal:</context>
+      <steps>
+        <step>
+          <cmd>Navigate to MyPack Portal</cmd>
+        </step>
+        <step>
+          <cmd>Select 'Student Homepage'</cmd>
+        </step>
+        <step>
+          <cmd>Select 'Personal Information'</cmd>
+          <info>On the Personal Information tile, you'll be able to view and update all of your personal information, including personal details, contact information, addresses, emergency contacts, privacy restrictions, residency, your SSN, and parent and guardian access.</info>
+        </step>
+      </steps>
+  </taskbody>
+</task>
