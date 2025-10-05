@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "https://docs.oasis-open.org/dita/v1.3/os/dtd/concept.dtd">
+<concept id="directory-information-overview">
+  <title>Directory Imformation Privacy Settings</title>
+   <shortdesc>
+    Under the Family Educational Rights and Privacy Act (FERPA), students have the right to control the visibility 
+    of their directory information maintained by NC State University.
+  </shortdesc>
+
+  <conbody>
+    <p>
+      The <b>Family Educational Rights and Privacy Act (FERPA)</b> grants students the right to restrict the disclosure 
+      of certain personal information classified as <i>directory information</i>. This includes, but is not limited to, 
+      the student’s preferred email address, enrollment status (full-time or part-time), and major field of study.
+    </p>
+
+    <p>
+      Students may choose to restrict all or specific portions of their directory information at any time through 
+      the university’s student information system, <b>MyPack Portal</b>. Adjusting these settings helps students 
+      manage how their information is shared with internal and external parties.
+    </p>
+
+    <note>
+      Limiting the release of directory information may affect how the university communicates with third parties, 
+      including prospective employers, honor societies, and media outlets. Students should review their privacy 
+      preferences carefully before applying restrictions.
+    </note>
+  </conbody>
+</concept>
