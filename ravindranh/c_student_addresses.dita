@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "https://docs.oasis-open.org/dita/v1.3/os/dtd/concept.dtd">
+<concept id="student-address-types">
+  <title>Types of Student Addresses at NC State University</title>
+  <shortdesc>NC State University 
+    maintains several addresses for students in order to maintain accurate student records and information.
+  </shortdesc>
+  <conbody>
+    <section>
+      <title>Student Address Definitions</title>
+      <p>
+        NC State University maintains the following types of addresses for students:
+       <ul>
+  <li>
+    <b>Home Address</b>: This address is used for mailing purposes and should describe the location where you would like to receive your mail. (If you use a PO Box, you may enter that address here.)
+  </li>
+  <li>
+    <b>Permanent Address</b>: This address persists beyond the student’s attendance at the University. This may be a parent’s address or your permanent address.
+  </li>
+  <li>
+    <b>Local Address</b>: This address should be the student’s physical living location while attending NC State and where you can be reached in an emergency. 
+  </li>
+  <li>
+    <b>Campus Housing Address</b>: This hsould be the student’s address in a University-managed residence hall or apartment.
+  </li>
+  <li>
+    <b>Diploma Address</b>: This should be the address to which a student’s diploma will be mailed once the student graduates. 
+  </li>
+  <li>
+    <b>SEVIS Local Address</b>: This should be the student’s local address while at NC State. 
+  </li>
+  <li>
+    <b>SEVIS Foreign Address</b>: This should be the student’s foreign home address. 
+  </li>
+</ul>
+      </p>
+    </section>
+<section>
+  <title>Additional Information</title>
+   <p>
+    <ul>
+     <li>Home address, permenant, and local addresses are required for alll students.</li>
+     <li>SEVIS Local and Foreign addresses are required for international students.</li>
+     <li>Please visit <xref href="https://internationalservices.ncsu.edu">International Services</xref> for more information.</li>
+     <li>Campus Housing address is automatically populated for students living in campus housing.</li>
+   </ul>
+  </p>
+  </section>
+  </conbody>
+</concept>
