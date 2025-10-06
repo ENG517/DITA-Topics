@@ -1,24 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="personal_info_tile">
-  <title>Personal Information Tile</title>
-  <shortdesc>On the Personal Information tile, you will be able to view and update all of your
-    personal information, including:</shortdesc>
+<concept id="full_privacy_block">
+  <title>Full Privacy Block</title>
+  <shortdesc>Under the Family Educational Rights and Privacy Act (FERPA), you have the right to
+    restrict all or part of your directory information, which includes your preferred email, your
+    enrollment status (full-time/part-time), major field of study, and more. </shortdesc>
   <conbody>
-    <ul>
-      <li>Personal Details (Student ID number, Name and Preferred Name)</li>
-      <li>Contact Details (Email addresses, phone numbers)</li>
-      <li>Addresses</li>
-      <li>Emergency Contacts</li>
-      <li>Text/Email Notification Setup</li>
-      <li>Ethnicity</li>
-      <li>Privacy Restrictions</li>
-      <li>Residency</li>
-      <li>Veterans Information (Military Affiliation, Request Benefits Certification, Review
-        Benefits Requests)</li>
-      <li>OIS Compliance Verification (for International students only)</li>
-      <li>Provide Social Security Number</li>
-      <li>Parent and Guardian Access</li>
-    </ul>
+    <p>A Full Privacy Block prevents us from sharing your information with anyone, including
+      employers. A full privacy block also prevents your inclusion in graduation and Dean’s List
+      publications.</p>
   </conbody>
 </concept>
