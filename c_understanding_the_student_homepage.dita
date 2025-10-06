@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="enter-unique-id-here">
+  <title>Understanding the Student Homepage</title>
+  <shortdesc>You can use your NC State Unity account to access your personal, academic and financial
+    information, and it's very important that you keep this information safe. Use the resources and
+    information below to protect your privacy. </shortdesc>
+  <conbody>
+    <p>To view or change your personal information in MyPack Portal: </p>
+    <p>On the <uicontrol>personal information</uicontrol>tile, you will be able to view and update
+      all of your personal information, including</p>
+    <ul>
+      <li><b>Personal Details</b>Personal Details</li>
+      <li><b>Contact Details</b>Email addresses, phone numbers</li>
+      <li><b>Addresses</b></li>
+      <li><b>Emergency Contacts</b></li>
+      <li><b>Text/Email Notification Setup</b></li>
+      <li><b>Ethnicity</b></li>
+      <li><b>Privacy Restrictions</b></li>
+      <li><b>Residency</b></li>
+      <li><b>Veterans Information</b>Military Affiliation, Request Benefits Certification, Review
+        Benefits Requests</li>
+      <li><b>OIS Compliance Verification</b>for International students only</li>
+      <li><b>Provide Social Security Number</b></li>
+      <li><b>Parent and Guardian Access</b></li>
+    </ul>
+  </conbody>
+</concept>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="enter-unique-id-here">
+  <title>Understanding the Family Education Rights and Privacy (FERPA)FERPA</title>
+  <shortdesc> Under the Family Educational Rights and Privacy Act (FERPA), you have the right to
+    restrict all or part of your directory information, which includes your preferred email, your
+    enrollment status (full-time/part-time), major field of study, and more. </shortdesc>
+  <conbody>
+    <p> The Family Educational Rights and Privacy Act (FERPA) protects students' privacy of their
+      education records. FERPA applies to schools and agencies that recieve funding from the US
+      Department of Education </p>
+    <p> Parents and students can request access and review of their education records, and request
+      amendment to those records if the information is found to be inconsistent, innaccurate, or
+      misleading. </p>
+    <p> If you wish to restrict this information, you can do so in your MyPack Portal: </p>
+    <p> You can control the information you grant access others to by clicking <uicontrol>Restrict</uicontrol>in
+      the <uicontrol>Personal Information</uicontrol> section of the MyPack portal. </p>
+    <p> If you choose a <b>Full Privacy Block</b>, you can grant exceptions for certain publications
+      by clicking the <b>Full Privacy Block</b> field, checking the <uicontrol>Restricted</uicontrol>
+      box, and selecting the Exceptions you would like to grant </p>
+    <p> By selecting a a “full privacy” block to prevent us from sharing your information with
+      anyone, including employers. A full privacy block also prevents your inclusion in graduation
+      and Dean’s List publications. </p>
+    <p> This information aligns in accordance with REG 11.00.01: Family Education Rights and Privacy
+      (FERPA) </p>
+  </conbody>
+</concept>
