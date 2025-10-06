@@ -10,6 +10,7 @@
       <title>Student Address Definitions</title>
       <p>
         NC State University maintains the following types of addresses for students:
+      </p>
        <ul>
   <li>
     <b>Home Address</b>: This address is used for mailing purposes and should describe the location where you would like to receive your mail. (If you use a PO Box, you may enter that address here.)
@@ -33,18 +34,14 @@
     <b>SEVIS Foreign Address</b>: This should be the student’s foreign home address. 
   </li>
 </ul>
-      </p>
     </section>
-<section>
-  <title>Additional Information</title>
-   <p>
+<section id = "additional-information">
     <ul>
      <li>Home address, permenant, and local addresses are required for alll students.</li>
      <li>SEVIS Local and Foreign addresses are required for international students.</li>
      <li>Please visit <xref href="https://internationalservices.ncsu.edu">International Services</xref> for more information.</li>
      <li>Campus Housing address is automatically populated for students living in campus housing.</li>
    </ul>
-  </p>
   </section>
   </conbody>
 </concept>
