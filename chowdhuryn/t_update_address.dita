@@ -44,6 +44,7 @@
         <cmd>
           Select the green 'Save' button
         </cmd>
+        <stepresult>Your updated address information is saved to your student record.</stepresult>
       </step>
     </steps>
   </taskbody>
