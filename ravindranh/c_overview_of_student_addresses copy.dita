@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "https://docs.oasis-open.org/dita/v1.3/os/dtd/concept.dtd">
+<concept id="overview-of-student-addresses">
+  <title>Overview of Student Addresses at NC State University</title>
+  <shortdesc>
+    NC State University collects and maintains student addresses to ensure accurate records, 
+    proper communication, and compliance with institutional and federal requirements.
+  </shortdesc>
+  <conbody>
+  <p>
+  NC State University gathers student address information during the admission process,
+  and allowes students to regularly update their addresses through the <b>MyPack</b>student portal.
+  </p>
+  <p>
+  The university uses students' adresses to communicate importabt academic, administrative, 
+  and emergency information to students. Additionally, student addresses are used for mailing diplomas, 
+  transcripts, and other official documents.
+  </p>
+  <p>
+  The <b>MyPack</b> student portal allows students to view, verify,and update their addreses as needed.
+  It is important for students to keep their addresses current to ensure they receive all communications from the university.
+ </p>
+ <note>
+      Students can access and manage all address information by selecting 
+      <b>Student Homepage → Personal Information → Addresses</b> in <b>MyPack Portal</b>. 
+      while <i>SEVIS Local</i> and <i>SEVIS Foreign</i> Addresses are required for international students.
+    </note>
+  </conbody>
+  </concept>
