@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="update-existing-student-address">
+  <title>Update an Address in Student Record</title>
+  <taskbody>
+    <prereq>
+      <p>Ensure that you have an active account in MyPack portal and logged into it before proceeding with the task</p>
+      </prereq>
+    <context>
+      <p>NC State University requires all students to update any changes to their addresses in the MyPack portal student information system
+        </p>
+      <p> The following types of addresses can be added or edited in the student record:</p>
+      <ul>
+        <li>Home Address</li>
+        <li>Local Address</li>
+        <li>Permenant Address</li>
+        <li>Campus Housing Address</li>
+        <li>Diploma Address</li>
+        <li>SEVIS Local Address</li>
+        <li>SEVIS Foreign Address</li>
+      </ul>
+      </context>
+    <steps>
+      <step>
+        <cmd>Select your <uicontrol>Student Homepage</uicontrol></cmd>
+        </step>
+      <step>
+        <cmd>Select the <uicontrol>Personal Information</uicontrol> tile</cmd>
+        </step>
+      <step>
+        <cmd>Select <uicontrol>Addresses</uicontrol> from the left-hand navigation menu</cmd>
+      </step>
+      <step>
+        <cmd>Select the address box under the appropriate header</cmd>
+        <stepxmp>
+          Home Address
+      </stepxmp>
+      </step>
+      <step>
+        <cmd>Update the address fields as necessary</cmd>
+        </step>
+      <step>
+        <cmd>Select the <uicontrol>Save</uicontrol> button</cmd>
+        </step>
+    </steps>
+  </taskbody>
+</task>

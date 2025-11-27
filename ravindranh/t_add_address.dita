@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="update-existing-student-address">
+  <title>Add an Address in Student Record</title>
+  <taskbody>
+    <prereq>
+      <p>Ensure that you have an active account in MyPack portal and log into it before proceeding with the task</p>
+      </prereq>
+    <context>
+      <p>NC State University requires all students to maintain accurate addresses in the MyPack portal student information system
+        </p>
+      <p> The following types of addresses can be added to a student record:</p>
+      <ul>
+        <li>Home Address</li>
+        <li>Local Address</li>
+        <li>Permenant Address</li>
+        <li>Campus Housing Address</li>
+        <li>Diploma Address</li>
+        <li>SEVIS Local Address</li>
+        <li>SEVIS Foreign Address</li>
+      </ul>
+      </context>
+    <steps>
+      <step>
+        <cmd>Select your <uicontrol>Student Homepage</uicontrol></cmd>
+        </step>
+      <step>
+        <cmd>Select the <uicontrol>Personal Information</uicontrol> tile</cmd>
+        </step>
+      <step>
+        <cmd>Select <uicontrol>Addresses</uicontrol> from the left-hand navigation menu</cmd>
+      </step>
+      <step>
+        <cmd>Select the <uicontrol>Add Diploma Address</uicontrol> button under the appropriate header</cmd>
+        <stepxmp>
+          Diploma Address
+      </stepxmp>
+      </step>
+      <step>
+        <cmd>Select the <uicontrol>Copy From</uicontrol> button to copy an address already existing in the record or manually enter the new address</cmd>
+        </step>
+      <step>
+        <cmd>Select the <uicontrol>Save</uicontrol> button</cmd>
+        </step>
+    </steps>
+     <postreq><p>International students must visit the OIS office for information on updating the SEVIS foreign address</p></postreq>
+  </taskbody>
+</task>

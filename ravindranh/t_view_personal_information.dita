@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="view-personal-information">
+  <title>View Personal Information</title>
+  <taskbody>
+    <prereq>
+      <p>Ensure that you have an active account in MyPack portal and log into it before proceeding with the task</p>
+      </prereq>
+    <context>
+      <p>NC State Unity account can be used to access your personal, academic, and financial information in the MyPack portal
+        </p>
+      </context>
+    <steps>
+      <step>
+        <cmd>Select your <uicontrol>Student Homepage</uicontrol></cmd>
+        </step>
+      <step>
+        <cmd>Select the <uicontrol>Personal Information</uicontrol> tile</cmd>
+        </step>
+      <step>
+        <cmd>Select <uicontrol>Addresses</uicontrol> from the left-hand navigation menu</cmd>
+      </step>
+      <step>
+        <cmd>View the following personal information:</cmd>
+        <info>
+          <ul>
+            <li>Personal Details(Student ID, Name, and Preferred Name)</li>
+            <li>Contact Details(Email addresses, phone numbers)</li>
+            <li>Addresses</li>
+            <li>Emergency Contacts</li>
+            <li>Text/Email Notification Setup</li>
+            <li>Ethnicity</li>
+            <li>Privacy Restrictions</li>
+            <li>Residency</li>
+            <li>Veterans Information(Military Affliations, Request Benefits Certification, Review Benefits Requests)</li>
+            <li>OIS Compliance Certifications</li>
+            <li>Social Security Number</li>
+            <li>Parent and Guardian Access</li>
+          </ul>
+        </info>
+      </step>   
+      </steps>
+     <postreq><p>OIS Compliance information is available for International students only</p></postreq>
+  </taskbody>
+</task>
